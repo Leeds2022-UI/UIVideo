@@ -64,7 +64,7 @@ private slots:
     void keyPressEvent(QKeyEvent *event);
     void ShowTaskBoxContextMenu(QPoint);
     void on_speed_clicked();
-
+    //void on_cut_clicked();
     void on_edit_clicked();
 
 private:

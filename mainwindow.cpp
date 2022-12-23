@@ -471,6 +471,10 @@ void MainWindow::on_sequence_clicked()
     }
 }
 
+//void MainWindow::on_cut_clicked(){
+//    this->showMinimized();
+//}
+
 void MainWindow::sequence_play()
 {
     switch(playmode){
